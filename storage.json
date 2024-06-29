@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Learn Rust",
+    "text": "Code a f**king OS kernel to learn it better",
+    "task_id": "d36a8371-0771-4f9b-a9ca-97461b793922",
+    "already_done": false,
+    "importance_level": 0,
+    "created_at": "2024-02-25 22:51:03.503000"
+  },
+  {
+    "title": "Touch Grass",
+    "text": "You heard me right the first time",
+    "task_id": "cb71de7c-0fb0-4287-b41b-83a44704fad1",
+    "already_done": false,
+    "importance_level": 0,
+    "created_at": "2024-02-25 23:05:16.032990"
+  }
+]
